@@ -1,0 +1,17 @@
+groq
+whisper
+sentence-transformers
+scikit-learn
+xgboost
+pytorch-tabnet
+shap
+transformers
+gtts
+openai-whisper
+Groq
+dotenv
+numpy
+pandas
+joblib
+pytorch-tabnet
+datasets
